@@ -1,0 +1,59 @@
+
+.navigation {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.navigation > p {
+    color: white;
+    margin: auto;
+    font-size: 22px;
+}
+
+.navigation > a {
+    color: white;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+li {
+    color: white;
+    
+}
+
+p{
+    margin-right: auto;
+}
+.footer{
+    background-color: black;
+
+}
+
+.footer > p1{
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.list-itmes{
+    list-style-type:none;
+    padding : 0px;
+
+
+}
+
+.list-itmes > li{
+
+    display: inline;
+    margin-right: 10px;
+
+}
+
+
+footer > p1{
+    margin: auto;
+}
